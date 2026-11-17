@@ -1,0 +1,119 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 6 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 5 0 R
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 963
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 2 of 5) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (Five-Page Report Document -- Page 2) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 2. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 14 Tf 0.1 0.1 0.1 rg 40 690 Td (Chapter 2: Detailed Findings & Metrics) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 660 Td (Section 2.1 describes the operation of multi-page workflow systems.) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 640 Td (Data record #20: Entropy level = 0.38, Vector throughput = 500 ops/sec.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-002 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (02) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 7 0 R
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 964
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 4 of 5) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (Five-Page Report Document -- Page 4) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 4. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 14 Tf 0.1 0.1 0.1 rg 40 690 Td (Chapter 4: Detailed Findings & Metrics) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 660 Td (Section 4.1 describes the operation of multi-page workflow systems.) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 640 Td (Data record #40: Entropy level = 0.76, Vector throughput = 1000 ops/sec.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-004 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (04) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000168 00000 n 
+0000000432 00000 n 
+0000001446 00000 n 
+0000001710 00000 n 
+trailer
+<<
+/Size 8
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+2725
+%%EOF

@@ -1,0 +1,120 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 5 0 R
+/AcroForm 7 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Parent 2 0 R
+/Annots [ 6 0 R ]
+>>
+endobj
+5 0 obj
+<<
+>>
+endobj
+6 0 obj
+<<
+/Type /Annot
+/Subtype /Widget
+/FT /Tx
+/T (applicant\137name)
+/V (Approved Inspector Rohan)
+/Rect [ 50 600 250 630 ]
+/DA (\057Helvetica 0 Tf 0 g)
+/AP <<
+/N 9 0 R
+>>
+>>
+endobj
+7 0 obj
+<<
+/NeedAppearances true
+/Fields [ 6 0 R ]
+/DR <<
+/Font <<
+/Helvetica 8 0 R
+>>
+>>
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /Helvetica
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/BBox [ 0.0 0.0 200 30 ]
+/Length 111
+/Resources <<
+/Font <<
+/Helvetica 8 0 R
+>>
+>>
+>>
+stream
+q
+/Tx BMC 
+q
+2 0 194.0 30.0 re
+W
+BT
+/Helvetica 16.5 Tf 0 g
+2 9.076 Td
+(Approved Inspector Rohan) Tj
+ET
+Q
+EMC
+Q
+
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000194 00000 n 
+0000000306 00000 n 
+0000000327 00000 n 
+0000000512 00000 n 
+0000000612 00000 n 
+0000000726 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+989
+%%EOF

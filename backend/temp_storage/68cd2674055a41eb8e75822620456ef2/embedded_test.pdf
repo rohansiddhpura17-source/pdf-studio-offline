@@ -1,0 +1,90 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Classified Project)
+/Author (Auditor)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Names 7 0 R
+/OpenAction <<
+/S /JavaScript
+/JS (app\056alert\050\047Test\047\051\073)
+>>
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+>>
+/MediaBox [ 0.0 0.0 200 200 ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /EmbeddedFile
+/Length 22
+>>
+stream
+sensitive payload data
+endstream
+endobj
+6 0 obj
+<<
+/Type /Filespec
+/F (confidential\137budget\056xlsx)
+/EF <<
+/F 5 0 R
+>>
+>>
+endobj
+7 0 obj
+<<
+/EmbeddedFiles 8 0 R
+/JavaScript <<
+/Names [ (Script1) <<
+/S /JavaScript
+/JS (app\056alert\050\047Test\047\051\073)
+>> ]
+>>
+>>
+endobj
+8 0 obj
+<<
+/Names [ (confidential\137budget\056xlsx) 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000100 00000 n 
+0000000159 00000 n 
+0000000297 00000 n 
+0000000391 00000 n 
+0000000483 00000 n 
+0000000575 00000 n 
+0000000720 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+791
+%%EOF

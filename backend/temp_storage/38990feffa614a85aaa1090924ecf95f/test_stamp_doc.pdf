@@ -1,0 +1,206 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 6 0 R 8 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 12 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents 5 0 R
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 1) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_PN <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 141
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+q
+BT
+/F_PN 10.0 Tf
+0.090 0.141 0.231 rg
+537.50 36.00 Td
+(Sec - I) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_PN <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 142
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 3) Tj ET
+q
+BT
+/F_PN 10.0 Tf
+0.090 0.141 0.231 rg
+532.00 36.00 Td
+(Sec - II) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 3) Tj ET
+endstream
+endobj
+10 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_PN <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 143
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 4) Tj ET
+q
+BT
+/F_PN 10.0 Tf
+0.090 0.141 0.231 rg
+526.50 36.00 Td
+(Sec - III) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 4) Tj ET
+endstream
+endobj
+12 0 obj
+<<
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000132 00000 n 
+0000000198 00000 n 
+0000000386 00000 n 
+0000000502 00000 n 
+0000000922 00000 n 
+0000001038 00000 n 
+0000001459 00000 n 
+0000001575 00000 n 
+0000001998 00000 n 
+0000002115 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+2137
+%%EOF

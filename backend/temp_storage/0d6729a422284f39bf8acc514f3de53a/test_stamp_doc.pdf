@@ -1,0 +1,135 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 6 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 8 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_Date <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 198
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 1) Tj ET
+q
+0.090 0.141 0.231 rg
+BT
+1.0000 0.0000 -0.0000 1.0000 532.00 751.00 Tm
+/F_Date 10.0 Tf
+-44.00 -3.33 Td
+(07 November 2026) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 1) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_Date <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 198
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+q
+0.090 0.141 0.231 rg
+BT
+1.0000 0.0000 -0.0000 1.0000 532.00 751.00 Tm
+/F_Date 10.0 Tf
+-44.00 -3.33 Td
+(07 November 2026) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000184 00000 n 
+0000000668 00000 n 
+0000000784 00000 n 
+0000001268 00000 n 
+0000001384 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1405
+%%EOF

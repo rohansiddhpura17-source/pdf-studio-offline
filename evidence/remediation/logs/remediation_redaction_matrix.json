@@ -1,0 +1,31 @@
+{
+  "target_a_text": {
+    "status": "PASS",
+    "leak_detected": false,
+    "mechanism": "Token stream rewriting and opaque vector overlay"
+  },
+  "target_b_annotations": {
+    "status": "PASS",
+    "annot_leaked": false,
+    "mechanism": "Bounding-box intersection scan and /Annots array culling"
+  },
+  "target_c_metadata": {
+    "status": "PASS",
+    "purged": true,
+    "mechanism": "Full PDF document reconstruction with empty metadata catalog"
+  },
+  "target_d_raster_images": {
+    "status": "PASS",
+    "underlying_pixels_modified": true,
+    "verified_with_pdfimages": true,
+    "mechanism": "In-place XObject stream re-encoding with solid pixel destruction"
+  },
+  "target_e_embedded_content": {
+    "status": "PASS",
+    "attachments_purged": true,
+    "openaction_purged": true,
+    "javascript_purged": true,
+    "is_sanitized": true,
+    "mechanism": "Root catalog /Names tree culling, /OpenAction stripping, and action sanitizer"
+  }
+}

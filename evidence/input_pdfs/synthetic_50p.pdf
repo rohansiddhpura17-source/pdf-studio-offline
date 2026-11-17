@@ -1,0 +1,2136 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (50\055Page Stress Test Manual)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 50
+/Kids [ 4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 44 0 R 46 0 R 48 0 R 50 0 R 52 0 R 54 0 R 56 0 R 58 0 R 60 0 R 62 0 R 64 0 R 66 0 R 68 0 R 70 0 R 72 0 R 74 0 R 76 0 R 78 0 R 80 0 R 82 0 R 84 0 R 86 0 R 88 0 R 90 0 R 92 0 R 94 0 R 96 0 R 98 0 R 100 0 R 102 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 5 0 R
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 1 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 1) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 1. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 01: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-001 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (01) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 7 0 R
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 2 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 2) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 2. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 02: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-002 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (02) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 9 0 R
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 3 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 3) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 3. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 03: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-003 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (03) Tj ET
+endstream
+endobj
+10 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 11 0 R
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 4 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 4) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 4. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 04: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-004 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (04) Tj ET
+endstream
+endobj
+12 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 13 0 R
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 5 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 5) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 5. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 05: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-005 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (05) Tj ET
+endstream
+endobj
+14 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 15 0 R
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 6 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 6) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 6. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 06: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-006 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (06) Tj ET
+endstream
+endobj
+16 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 17 0 R
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 7 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 7) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 7. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 07: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-007 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (07) Tj ET
+endstream
+endobj
+18 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 19 0 R
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 8 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 8) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 8. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 08: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-008 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (08) Tj ET
+endstream
+endobj
+20 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 21 0 R
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 975
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 9 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 9) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 9. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 09: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-009 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (09) Tj ET
+endstream
+endobj
+22 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 23 0 R
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 10 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 10) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 10. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 10: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-010 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (10) Tj ET
+endstream
+endobj
+24 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 25 0 R
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 11 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 11) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 11. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 11: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-011 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (11) Tj ET
+endstream
+endobj
+26 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 27 0 R
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 12 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 12) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 12. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 12: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-012 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (12) Tj ET
+endstream
+endobj
+28 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 29 0 R
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 13 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 13) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 13. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 13: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-013 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (13) Tj ET
+endstream
+endobj
+30 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 31 0 R
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 14 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 14) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 14. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 14: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-014 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (14) Tj ET
+endstream
+endobj
+32 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 33 0 R
+/Parent 2 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 15 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 15) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 15. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 15: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-015 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (15) Tj ET
+endstream
+endobj
+34 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 35 0 R
+/Parent 2 0 R
+>>
+endobj
+35 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 16 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 16) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 16. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 16: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-016 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (16) Tj ET
+endstream
+endobj
+36 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 37 0 R
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 17 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 17) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 17. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 17: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-017 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (17) Tj ET
+endstream
+endobj
+38 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 39 0 R
+/Parent 2 0 R
+>>
+endobj
+39 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 18 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 18) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 18. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 18: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-018 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (18) Tj ET
+endstream
+endobj
+40 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 41 0 R
+/Parent 2 0 R
+>>
+endobj
+41 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 19 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 19) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 19. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 19: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-019 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (19) Tj ET
+endstream
+endobj
+42 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 43 0 R
+/Parent 2 0 R
+>>
+endobj
+43 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 20 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 20) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 20. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 20: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-020 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (20) Tj ET
+endstream
+endobj
+44 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 45 0 R
+/Parent 2 0 R
+>>
+endobj
+45 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 21 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 21) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 21. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 21: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-021 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (21) Tj ET
+endstream
+endobj
+46 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 47 0 R
+/Parent 2 0 R
+>>
+endobj
+47 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 22 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 22) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 22. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 22: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-022 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (22) Tj ET
+endstream
+endobj
+48 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 49 0 R
+/Parent 2 0 R
+>>
+endobj
+49 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 23 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 23) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 23. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 23: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-023 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (23) Tj ET
+endstream
+endobj
+50 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 51 0 R
+/Parent 2 0 R
+>>
+endobj
+51 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 24 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 24) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 24. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 24: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-024 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (24) Tj ET
+endstream
+endobj
+52 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 53 0 R
+/Parent 2 0 R
+>>
+endobj
+53 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 25 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 25) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 25. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 25: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-025 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (25) Tj ET
+endstream
+endobj
+54 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 55 0 R
+/Parent 2 0 R
+>>
+endobj
+55 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 26 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 26) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 26. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 26: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-026 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (26) Tj ET
+endstream
+endobj
+56 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 57 0 R
+/Parent 2 0 R
+>>
+endobj
+57 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 27 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 27) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 27. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 27: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-027 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (27) Tj ET
+endstream
+endobj
+58 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 59 0 R
+/Parent 2 0 R
+>>
+endobj
+59 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 28 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 28) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 28. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 28: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-028 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (28) Tj ET
+endstream
+endobj
+60 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 61 0 R
+/Parent 2 0 R
+>>
+endobj
+61 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 29 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 29) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 29. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 29: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-029 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (29) Tj ET
+endstream
+endobj
+62 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 63 0 R
+/Parent 2 0 R
+>>
+endobj
+63 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 30 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 30) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 30. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 30: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-030 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (30) Tj ET
+endstream
+endobj
+64 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 65 0 R
+/Parent 2 0 R
+>>
+endobj
+65 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 31 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 31) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 31. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 31: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-031 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (31) Tj ET
+endstream
+endobj
+66 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 67 0 R
+/Parent 2 0 R
+>>
+endobj
+67 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 32 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 32) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 32. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 32: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-032 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (32) Tj ET
+endstream
+endobj
+68 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 69 0 R
+/Parent 2 0 R
+>>
+endobj
+69 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 33 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 33) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 33. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 33: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-033 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (33) Tj ET
+endstream
+endobj
+70 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 71 0 R
+/Parent 2 0 R
+>>
+endobj
+71 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 34 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 34) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 34. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 34: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-034 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (34) Tj ET
+endstream
+endobj
+72 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 73 0 R
+/Parent 2 0 R
+>>
+endobj
+73 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 35 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 35) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 35. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 35: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-035 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (35) Tj ET
+endstream
+endobj
+74 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 75 0 R
+/Parent 2 0 R
+>>
+endobj
+75 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 36 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 36) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 36. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 36: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-036 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (36) Tj ET
+endstream
+endobj
+76 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 77 0 R
+/Parent 2 0 R
+>>
+endobj
+77 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 37 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 37) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 37. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 37: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-037 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (37) Tj ET
+endstream
+endobj
+78 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 79 0 R
+/Parent 2 0 R
+>>
+endobj
+79 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 38 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 38) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 38. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 38: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-038 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (38) Tj ET
+endstream
+endobj
+80 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 81 0 R
+/Parent 2 0 R
+>>
+endobj
+81 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 39 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 39) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 39. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 39: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-039 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (39) Tj ET
+endstream
+endobj
+82 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 83 0 R
+/Parent 2 0 R
+>>
+endobj
+83 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 40 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 40) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 40. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 40: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-040 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (40) Tj ET
+endstream
+endobj
+84 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 85 0 R
+/Parent 2 0 R
+>>
+endobj
+85 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 41 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 41) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 41. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 41: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-041 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (41) Tj ET
+endstream
+endobj
+86 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 87 0 R
+/Parent 2 0 R
+>>
+endobj
+87 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 42 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 42) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 42. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 42: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-042 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (42) Tj ET
+endstream
+endobj
+88 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 89 0 R
+/Parent 2 0 R
+>>
+endobj
+89 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 43 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 43) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 43. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 43: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-043 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (43) Tj ET
+endstream
+endobj
+90 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 91 0 R
+/Parent 2 0 R
+>>
+endobj
+91 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 44 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 44) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 44. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 44: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-044 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (44) Tj ET
+endstream
+endobj
+92 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 93 0 R
+/Parent 2 0 R
+>>
+endobj
+93 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 45 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 45) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 45. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 45: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-045 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (45) Tj ET
+endstream
+endobj
+94 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 95 0 R
+/Parent 2 0 R
+>>
+endobj
+95 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 46 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 46) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 46. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 46: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-046 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (46) Tj ET
+endstream
+endobj
+96 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 97 0 R
+/Parent 2 0 R
+>>
+endobj
+97 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 47 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 47) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 47. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 47: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-047 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (47) Tj ET
+endstream
+endobj
+98 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 99 0 R
+/Parent 2 0 R
+>>
+endobj
+99 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 48 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 48) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 48. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 48: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-048 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (48) Tj ET
+endstream
+endobj
+100 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 101 0 R
+/Parent 2 0 R
+>>
+endobj
+101 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 49 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 49) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 49. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 49: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-049 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (49) Tj ET
+endstream
+endobj
+102 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 103 0 R
+/Parent 2 0 R
+>>
+endobj
+103 0 obj
+<<
+/Length 978
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 50 of 50) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (50-Page Stress Test Manual -- Page 50) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 50. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 11 Tf 0.1 0.1 0.1 rg 40 690 Td (Entry 50: Heavy Document Stress Record) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 665 Td (Line A: High-density stream entry for stress testing page table serialization.) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 40 645 Td (Line B: Testing fast thumbnail rendering and memory footprint stability.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-050 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (50) Tj ET
+endstream
+endobj
+xref
+0 104
+0000000000 65535 f 
+0000000015 00000 n 
+0000000093 00000 n 
+0000000496 00000 n 
+0000000545 00000 n 
+0000000809 00000 n 
+0000001835 00000 n 
+0000002099 00000 n 
+0000003125 00000 n 
+0000003389 00000 n 
+0000004415 00000 n 
+0000004681 00000 n 
+0000005708 00000 n 
+0000005974 00000 n 
+0000007001 00000 n 
+0000007267 00000 n 
+0000008294 00000 n 
+0000008560 00000 n 
+0000009587 00000 n 
+0000009853 00000 n 
+0000010880 00000 n 
+0000011146 00000 n 
+0000012173 00000 n 
+0000012439 00000 n 
+0000013469 00000 n 
+0000013735 00000 n 
+0000014765 00000 n 
+0000015031 00000 n 
+0000016061 00000 n 
+0000016327 00000 n 
+0000017357 00000 n 
+0000017623 00000 n 
+0000018653 00000 n 
+0000018919 00000 n 
+0000019949 00000 n 
+0000020215 00000 n 
+0000021245 00000 n 
+0000021511 00000 n 
+0000022541 00000 n 
+0000022807 00000 n 
+0000023837 00000 n 
+0000024103 00000 n 
+0000025133 00000 n 
+0000025399 00000 n 
+0000026429 00000 n 
+0000026695 00000 n 
+0000027725 00000 n 
+0000027991 00000 n 
+0000029021 00000 n 
+0000029287 00000 n 
+0000030317 00000 n 
+0000030583 00000 n 
+0000031613 00000 n 
+0000031879 00000 n 
+0000032909 00000 n 
+0000033175 00000 n 
+0000034205 00000 n 
+0000034471 00000 n 
+0000035501 00000 n 
+0000035767 00000 n 
+0000036797 00000 n 
+0000037063 00000 n 
+0000038093 00000 n 
+0000038359 00000 n 
+0000039389 00000 n 
+0000039655 00000 n 
+0000040685 00000 n 
+0000040951 00000 n 
+0000041981 00000 n 
+0000042247 00000 n 
+0000043277 00000 n 
+0000043543 00000 n 
+0000044573 00000 n 
+0000044839 00000 n 
+0000045869 00000 n 
+0000046135 00000 n 
+0000047165 00000 n 
+0000047431 00000 n 
+0000048461 00000 n 
+0000048727 00000 n 
+0000049757 00000 n 
+0000050023 00000 n 
+0000051053 00000 n 
+0000051319 00000 n 
+0000052349 00000 n 
+0000052615 00000 n 
+0000053645 00000 n 
+0000053911 00000 n 
+0000054941 00000 n 
+0000055207 00000 n 
+0000056237 00000 n 
+0000056503 00000 n 
+0000057533 00000 n 
+0000057799 00000 n 
+0000058829 00000 n 
+0000059095 00000 n 
+0000060125 00000 n 
+0000060391 00000 n 
+0000061421 00000 n 
+0000061687 00000 n 
+0000062717 00000 n 
+0000062985 00000 n 
+0000064016 00000 n 
+0000064284 00000 n 
+trailer
+<<
+/Size 104
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+65315
+%%EOF

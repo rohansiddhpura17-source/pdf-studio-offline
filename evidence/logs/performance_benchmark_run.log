@@ -1,0 +1,43 @@
+================================================================================
+  PDF STUDIO v1.0.0 — RIGOROUS PERFORMANCE BENCHMARK SUITE
+================================================================================
+[*] Detected Backend PID: 10709 | Initial RSS: 12.91 MB
+
+--- 1. API Ping & Health Latency ---
+    Health Ping (10 samples): Avg = 0.88 ms | Min = 0.44 ms | Max = 4.15 ms
+
+--- 2. Document Upload & Parse Latency ---
+    1-Page (A4)              (01p, 1,946B): 20.67 ms
+    5-Page Report            (05p, 7,068B): 14.17 ms
+    20-Page Pagination       (20p, 24,949B): 13.19 ms
+    50-Page Stress Manual    (50p, 67,476B): 16.67 ms
+    Image-Heavy PDF          (02p, 17,567B): 10.62 ms
+
+--- 3. Page Thumbnail Rendering Throughput ---
+    1-Page (A4)              (01 pages): Total = 0.003 s | Avg = 2.82 ms/page
+    20-Page Pagination       (20 pages): Total = 0.070 s | Avg = 3.51 ms/page
+    50-Page Stress Manual    (50 pages): Total = 0.275 s | Avg = 5.50 ms/page
+
+--- 4. Page Navigation Seek Latency (50-page Document) ---
+    Random Access Seeks (8 jumps): Avg = 6.59 ms | Min = 6.52 ms | Max = 6.69 ms
+
+--- 5. Export & Download Throughput ---
+    1-Page (A4)              (1,946B): 1.06 ms
+    5-Page Report            (7,068B): 0.96 ms
+    20-Page Pagination       (24,949B): 0.93 ms
+    50-Page Stress Manual    (67,476B): 1.03 ms
+    Image-Heavy PDF          (17,567B): 0.85 ms
+
+--- 6. Compression Pipeline Benchmarks (Image-Heavy PDF) ---
+    Preset 'max_quality': 17,567B -> 17,532B (0.2% saved) in 27.2 ms
+    Preset 'balanced': 17,567B -> 17,532B (0.2% saved) in 31.5 ms
+    Preset 'strong  ': 17,567B -> 17,532B (0.2% saved) in 30.5 ms
+
+--- 7. Memory RSS Profiling ---
+    Initial Resident Memory: 12.91 MB
+    Final Resident Memory:   51.77 MB (Delta: +38.86 MB)
+
+================================================================================
+  [OK] Performance benchmark complete. Structured results written to:
+       /Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/logs/performance_data.json
+================================================================================

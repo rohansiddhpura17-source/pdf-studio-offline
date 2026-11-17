@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-11-08T01:46:28Z",
+  "base_url": "http://127.0.0.1:8001",
+  "test_results": {
+    "home_load": {
+      "status": "PASS",
+      "load_time_sec": 0.75
+    },
+    "50p_document_lifecycle": "PASS",
+    "organise_tools_ui": "PASS",
+    "edit_tools_ui": "PASS",
+    "stamp_tools_ui": "PASS",
+    "convert_tools_ui": "PASS",
+    "finish_tools_ui": "PASS"
+  },
+  "summary": {
+    "console_logs_count": 0,
+    "page_errors_count": 1,
+    "failed_requests_count": 1,
+    "outbound_leak_attempts": 0
+  },
+  "console_logs": [],
+  "page_errors": [
+    "Worker was terminated"
+  ],
+  "failed_requests": [
+    {
+      "url": "http://127.0.0.1:8001/api/document/43ea131f0dde4284add13c3532ecefb4/download",
+      "failure": "net::ERR_ABORTED"
+    }
+  ]
+}

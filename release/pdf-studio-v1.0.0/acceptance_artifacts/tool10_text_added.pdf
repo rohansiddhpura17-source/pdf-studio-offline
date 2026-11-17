@@ -1,0 +1,90 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 6 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents <<
+/Length 219
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Document Body) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 1 marker) Tj ET
+q
+BT
+/F_Helvetica 16.0 Tf
+0.157 0.349 0.851 rg
+50.00 600.00 Td
+(LEGAL CLAUSE ANNOTATION) Tj
+-50.00 -600.00 Td
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 103
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Document Body) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 1 marker) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+>>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000178 00000 n 
+0000000683 00000 n 
+0000000837 00000 n 
+trailer
+<<
+/Size 7
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+858
+%%EOF

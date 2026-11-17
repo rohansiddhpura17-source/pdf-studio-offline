@@ -1,0 +1,151 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 6 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 8 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_WM <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+/ExtGState <<
+/WM_GS_30 <<
+/Type /ExtGState
+/ca 0.3
+/CA 0.3
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 211
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 1) Tj ET
+q
+/WM_GS_30 gs
+0.851 0.157 0.157 rg
+BT
+0.7071 0.7071 -0.7071 0.7071 306.00 396.00 Tm
+/F_WM 48.0 Tf
+-211.20 -16.00 Td
+(TOP SECRET DRAFT) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 1) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_WM <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+/ExtGState <<
+/WM_GS_30 <<
+/Type /ExtGState
+/ca 0.3
+/CA 0.3
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 211
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+q
+/WM_GS_30 gs
+0.851 0.157 0.157 rg
+BT
+0.7071 0.7071 -0.7071 0.7071 306.00 396.00 Tm
+/F_WM 48.0 Tf
+-211.20 -16.00 Td
+(TOP SECRET DRAFT) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000184 00000 n 
+0000000745 00000 n 
+0000000861 00000 n 
+0000001422 00000 n 
+0000001538 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1559
+%%EOF

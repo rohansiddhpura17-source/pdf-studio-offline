@@ -1,0 +1,80 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Security Redaction Test Document)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents 5 0 R
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1078
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 1 of 1) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (Security Redaction Verification Document) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 1. Fully compliant vector streams.) Tj ET
+q 1 0.95 0.95 rg 40 600 515 90 re f Q
+BT /Helvetica-Bold 12 Tf 0.8 0.1 0.1 rg 55 660 Td (CONFIDENTIAL CLASSIFIED SECTION) Tj ET
+BT /Helvetica 10 Tf 0.1 0.1 0.1 rg 55 640 Td (Employee SSN Record: CLASSIFIED_SSN_987-65-4321) Tj ET
+BT /Helvetica 10 Tf 0.1 0.1 0.1 rg 55 620 Td (Project Code Name: SECRET_PROJECT_APOLLO_BLUEPRINT) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 550 Td (Standard unclassified text below the target area for verification.) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-001 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (01) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000096 00000 n 
+0000000155 00000 n 
+0000000204 00000 n 
+0000000468 00000 n 
+trailer
+<<
+/Size 6
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1598
+%%EOF

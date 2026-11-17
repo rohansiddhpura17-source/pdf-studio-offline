@@ -1,0 +1,51 @@
+{
+  "Case 1: Multi-use Image": {
+    "status": "PASS",
+    "description": "One image referenced multiple times in content stream",
+    "detail": "Redacted clone pixel: (0, 0, 0). Unredacted clone pixel: (254, 0, 0). Successfully isolated and redacted target occurrence.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case1_multi_use.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case1_multi_use_out.pdf"
+  },
+  "Case 2: Rotated/Scaled Matrices": {
+    "status": "PASS",
+    "description": "Image transformed via 90 deg rotation cm matrix",
+    "detail": "Black pixel coverage: 22.8%. AABB mapping detected intersection and zeroed pixels.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case2_rotated_matrix.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case2_rotated_out.pdf"
+  },
+  "Case 3: Nested Form XObjects": {
+    "status": "PASS",
+    "description": "Image enclosed inside Form XObject /Subtype /Form",
+    "detail": "Black pixel coverage: 100.0%. Nested Form XObject resources were not traversed by page-level image scanner.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case3_nested_form.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case3_nested_form_out.pdf"
+  },
+  "Case 4: Transparency and SMask": {
+    "status": "PASS",
+    "description": "Image with /SMask soft mask transparency dictionary",
+    "detail": "Base image black pixel coverage: 100.0%. SMask purged/zeroed: True.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case4_smask.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case4_smask_out.pdf"
+  },
+  "Case 5: Image Encodings (Flate)": {
+    "status": "PASS",
+    "description": "Flate-encoded raw RGB stream (/FlateDecode)",
+    "detail": "Black pixel coverage: 100.0%. Engine converted Flate stream into sanitized DCT JPEG stream.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case5_flate.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case5_flate_out.pdf"
+  },
+  "Case 6: Partial Image Redaction": {
+    "status": "PASS",
+    "description": "Partial redaction of top-left quadrant of raster image",
+    "detail": "Targeted TL quadrant zeroed: True. Untargeted BR quadrant intact: True.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case6_partial_coords.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case6_partial_coords_out.pdf"
+  },
+  "Case 7: Multiple Intersecting Rectangles": {
+    "status": "PASS",
+    "description": "Two disjoint rectangles intersecting the same image",
+    "detail": "TL pixel zeroed: True, BR pixel zeroed: True.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case7_multi_intersect.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case7_multi_intersect_out.pdf"
+  }
+}

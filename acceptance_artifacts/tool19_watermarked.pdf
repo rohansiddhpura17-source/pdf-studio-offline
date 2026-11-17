@@ -1,0 +1,155 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 6 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 8 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_WM <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+/ExtGState <<
+/WM_GS_30 <<
+/Type /ExtGState
+/ca 0.3
+/CA 0.3
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents <<
+/Length 249
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Watermark Test P1) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 1 marker) Tj ET
+q
+/WM_GS_30 gs
+0.863 0.149 0.149 rg
+BT
+0.7071 0.7071 -0.7071 0.7071 297.50 421.00 Tm
+/F_WM 48.0 Tf
+-171.60 -16.00 Td
+(OFFICIAL COPY) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 107
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Watermark Test P1) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 1 marker) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_WM <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+/ExtGState <<
+/WM_GS_30 <<
+/Type /ExtGState
+/ca 0.3
+/CA 0.3
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents <<
+/Length 249
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Watermark Test P2) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 2 marker) Tj ET
+q
+/WM_GS_30 gs
+0.863 0.149 0.149 rg
+BT
+0.7071 0.7071 -0.7071 0.7071 297.50 421.00 Tm
+/F_WM 48.0 Tf
+-171.60 -16.00 Td
+(OFFICIAL COPY) Tj
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 107
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Watermark Test P2) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 2 marker) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000184 00000 n 
+0000000783 00000 n 
+0000000941 00000 n 
+0000001540 00000 n 
+0000001698 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1719
+%%EOF

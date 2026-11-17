@@ -1,0 +1,122 @@
+{
+  "._synthetic_1p.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_20p.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_50p.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_5p.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_corrupted.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_encrypted.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_form.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_images.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_invalid_mime.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_landscape.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_redaction.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "._synthetic_zero_byte.pdf": {
+    "size_bytes": 4096,
+    "sha256": "508a67a103d956952fbcb50c2266b5ccf175c564bd3cdaeb64f6fe5377129e39",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_1p.pdf": {
+    "size_bytes": 1946,
+    "sha256": "70d9d2e9b31d4e24a0b222eddedada2b6d053068fe8746ce969a59ccebcdfef9",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_20p.pdf": {
+    "size_bytes": 24949,
+    "sha256": "f49c90a333f64a04fa06f3c545acc496eb59361e37e228173bc8d1fdf01110b2",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_50p.pdf": {
+    "size_bytes": 67476,
+    "sha256": "89cbbf745b0c5455b50a7fdd328cd2c754906fefd75de6d564b7825f1381e3bf",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_5p.pdf": {
+    "size_bytes": 7068,
+    "sha256": "6c06bb7af95d52d08475dbb25dcc849eef485426196a53f744aeaa0c4bc5c00f",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_corrupted.pdf": {
+    "size_bytes": 104,
+    "sha256": "d692164861a902593a806c427a472281548573c6c0239d8f54deaaef5f5deb23",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_encrypted.pdf": {
+    "size_bytes": 1860,
+    "sha256": "065d1253dd565859c2e76b3cf3dc84a1884569f0e5b1cc29ee2d404d45f3e369",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_form.pdf": {
+    "size_bytes": 1711,
+    "sha256": "c1a984c67e74e32e9064a4477667e5bbe30647ec236868fe915ddb19c2b91657",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_images.pdf": {
+    "size_bytes": 17567,
+    "sha256": "12b70ffeca150b517510d6f14eb05bea432dd3354faec7218a5254912f3b0027",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_invalid_mime.pdf": {
+    "size_bytes": 101,
+    "sha256": "865b5fcb92d5df3813c89d07557553c81a26a9c3496227ad9325a4e673306738",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_landscape.pdf": {
+    "size_bytes": 2770,
+    "sha256": "5508199ceac4c645635972b60f96c44d84a0be56468ea4044b69d1a02798fd6c",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_redaction.pdf": {
+    "size_bytes": 1794,
+    "sha256": "34094b6e56e389bc088ca2ab5bd0679c66cea850e8a51351ea619039cbfd04ae",
+    "status": "UNTOUCHED"
+  },
+  "synthetic_zero_byte.pdf": {
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "UNTOUCHED"
+  }
+}

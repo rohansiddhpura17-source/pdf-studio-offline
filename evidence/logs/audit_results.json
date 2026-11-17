@@ -1,0 +1,271 @@
+{
+  "timestamp": "2026-11-08T01:09:50Z",
+  "total_tools_tested": 29,
+  "tools_passed": 29,
+  "tools_failed": 0,
+  "tool_pass_rate": "100.0%",
+  "security_checks_passed": 5,
+  "security_total": 5,
+  "input_immutability_preserved": true,
+  "tool_results": [
+    {
+      "tool_number": 1,
+      "tool_name": "Merge PDFs",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Merged 1p + 5p = 6 pages (8,396 bytes)",
+      "output_file": "independent_tool01_merged.pdf"
+    },
+    {
+      "tool_number": 2,
+      "tool_name": "Split PDF",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Split 5-page PDF into 2 documents (2p and 3p)",
+      "output_file": "independent_tool02_split_part1.pdf"
+    },
+    {
+      "tool_number": 3,
+      "tool_name": "Reorder Pages",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Inverted page order [5,4,3,2,1], first page verified Page 5",
+      "output_file": "independent_tool03_reordered.pdf"
+    },
+    {
+      "tool_number": 4,
+      "tool_name": "Rotate Pages",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Page rotated 90\u00b0 CW, reader confirms rotation=90",
+      "output_file": "independent_tool04_rotated.pdf"
+    },
+    {
+      "tool_number": 5,
+      "tool_name": "Delete Pages",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Deleted pages 2 and 4, verified remaining page count = 3",
+      "output_file": "independent_tool05_deleted.pdf"
+    },
+    {
+      "tool_number": 6,
+      "tool_name": "Duplicate Pages",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Duplicated page 1 twice, verified page count = 3",
+      "output_file": "independent_tool06_duplicated.pdf"
+    },
+    {
+      "tool_number": 7,
+      "tool_name": "Extract Pages",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Extracted pages 2 and 4 into independent document",
+      "output_file": "independent_tool07_extracted.pdf"
+    },
+    {
+      "tool_number": 8,
+      "tool_name": "Insert Blank Pages",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Inserted blank A4 portrait page, verified page count = 2",
+      "output_file": "independent_tool08_inserted_blank.pdf"
+    },
+    {
+      "tool_number": 9,
+      "tool_name": "Crop Pages",
+      "module": "Organise",
+      "status": "PASS",
+      "details": "Applied 25pt horiz, 35pt vert crop -> 545x772 pt",
+      "output_file": "independent_tool09_cropped.pdf"
+    },
+    {
+      "tool_number": 10,
+      "tool_name": "Add Text",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "Vector text overlay added and verified via stream text extraction",
+      "output_file": "independent_tool10_add_text.pdf"
+    },
+    {
+      "tool_number": 11,
+      "tool_name": "Add Images",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "Raster image inserted into page resources (1 image XObjects)",
+      "output_file": "independent_tool11_add_image.pdf"
+    },
+    {
+      "tool_number": 12,
+      "tool_name": "Highlight Text",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "Translucent highlight rectangle composited to stream",
+      "output_file": "independent_tool12_highlight.pdf"
+    },
+    {
+      "tool_number": 13,
+      "tool_name": "Freehand Draw",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "Vector path bezier strokes added to content stream",
+      "output_file": "independent_tool13_draw.pdf"
+    },
+    {
+      "tool_number": 14,
+      "tool_name": "Geometric Shapes",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "Geometric rounded rectangle rendered with stroke and fill",
+      "output_file": "independent_tool14_shapes.pdf"
+    },
+    {
+      "tool_number": 15,
+      "tool_name": "Whiteout",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "Cosmetic whiteout mask block composited to page",
+      "output_file": "independent_tool15_whiteout.pdf"
+    },
+    {
+      "tool_number": 16,
+      "tool_name": "Secure Redaction",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "0 extracted instances, 0 physical bytecode occurrences. Content stream sanitized.",
+      "output_file": "independent_tool16_redacted.pdf"
+    },
+    {
+      "tool_number": 17,
+      "tool_name": "Digital Signatures",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "Visual signature stamp and signer metadata placed in stream",
+      "output_file": "independent_tool17_signature.pdf"
+    },
+    {
+      "tool_number": 18,
+      "tool_name": "PDF Form Filling",
+      "module": "Edit",
+      "status": "PASS",
+      "details": "AcroForm field values populated and committed to catalog",
+      "output_file": "independent_tool18_form_filled.pdf"
+    },
+    {
+      "tool_number": 19,
+      "tool_name": "Watermarks",
+      "module": "Stamp",
+      "status": "PASS",
+      "details": "Diagonal text watermark stamped across pages at 45\u00b0 with 30% opacity",
+      "output_file": "independent_tool19_watermark.pdf"
+    },
+    {
+      "tool_number": 20,
+      "tool_name": "Page Numbers",
+      "module": "Stamp",
+      "status": "PASS",
+      "details": "Pinned page numbers 'Page I of 5' applied and verified",
+      "output_file": "independent_tool20_page_numbers.pdf"
+    },
+    {
+      "tool_number": 21,
+      "tool_name": "Headers and Footers",
+      "module": "Stamp",
+      "status": "PASS",
+      "details": "3-column running header & footer stamped with divider line",
+      "output_file": "independent_tool21_header_footer.pdf"
+    },
+    {
+      "tool_number": 22,
+      "tool_name": "Date Stamps",
+      "module": "Stamp",
+      "status": "PASS",
+      "details": "Date stamp 'AUDITED ON 08/11/2026' pinned to bottom-right",
+      "output_file": "independent_tool22_date_stamp.pdf"
+    },
+    {
+      "tool_number": 23,
+      "tool_name": "Images to PDF",
+      "module": "Convert",
+      "status": "PASS",
+      "details": "Compiled 2 raster images into compliant 2-page A4 PDF",
+      "output_file": "independent_tool23_images_to_pdf.pdf"
+    },
+    {
+      "tool_number": 24,
+      "tool_name": "PDF to Images",
+      "module": "Convert",
+      "status": "PASS",
+      "details": "Rasterized 5 pages at 150 DPI into ZIP archive containing 5 PNGs",
+      "output_file": "independent_tool24_pdf_to_images.zip"
+    },
+    {
+      "tool_number": 25,
+      "tool_name": "PDF to Text",
+      "module": "Convert",
+      "status": "PASS",
+      "details": "Extracted 1952 characters across 5 pages with layout preservation",
+      "output_file": "independent_tool25_extracted_text.txt"
+    },
+    {
+      "tool_number": 26,
+      "tool_name": "PDF Compression",
+      "module": "Finish",
+      "status": "PASS",
+      "details": "Orig: 17,567B -> Comp: 17,532B (0.2% saved)",
+      "output_file": "independent_tool26_compressed.pdf"
+    },
+    {
+      "tool_number": 27,
+      "tool_name": "Edit PDF Metadata",
+      "module": "Finish",
+      "status": "PASS",
+      "details": "Updated Title: 'AUDITED_NEW_TITLE', Author: 'Chief Auditor', Keywords: 'audit, production, pass'",
+      "output_file": "independent_tool27_edited_metadata.pdf"
+    },
+    {
+      "tool_number": 28,
+      "tool_name": "Remove PDF Metadata",
+      "module": "Finish",
+      "status": "PASS",
+      "details": "Deep sanitation purged all identifying fields (is_sanitized=True)",
+      "output_file": "independent_tool28_cleansed_metadata.pdf"
+    },
+    {
+      "tool_number": 29,
+      "tool_name": "Compare PDFs",
+      "module": "Finish",
+      "status": "PASS",
+      "details": "Compared 1p vs 5p documents, detected differences, generated HTML audit report (6,641 bytes)",
+      "output_file": "independent_tool29_comparison_report.html"
+    }
+  ],
+  "security_results": [
+    {
+      "name": "Path Traversal Escape Guard",
+      "status": "PASS",
+      "details": "Blocked attempt with HTTP 404"
+    },
+    {
+      "name": "0-Byte File Rejection",
+      "status": "PASS",
+      "details": "Rejected 0-byte upload with HTTP 400"
+    },
+    {
+      "name": "Non-PDF MIME Rejection",
+      "status": "PASS",
+      "details": "Rejected text/plain payload with HTTP 400"
+    },
+    {
+      "name": "Corrupted PDF Safety",
+      "status": "PASS",
+      "details": "Handled malformed stream safely (HTTP 422)"
+    },
+    {
+      "name": "Host Header Injection & External Rejection",
+      "status": "PASS",
+      "details": "External Host header blocked with HTTP 403"
+    }
+  ]
+}

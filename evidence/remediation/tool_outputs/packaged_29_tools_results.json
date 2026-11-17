@@ -1,0 +1,120 @@
+{
+  "Tool 01: Reorder Pages": {
+    "status": "PASS",
+    "pages": 5
+  },
+  "Tool 02: Rotate Pages": {
+    "status": "PASS",
+    "rotation": 90
+  },
+  "Tool 03: Delete Pages": {
+    "status": "PASS",
+    "pages": 3
+  },
+  "Tool 04: Extract Pages": {
+    "status": "PASS",
+    "pages": 3
+  },
+  "Tool 05: Insert Blank Page": {
+    "status": "PASS",
+    "pages": 2
+  },
+  "Tool 06: Duplicate Pages": {
+    "status": "PASS",
+    "pages": 2
+  },
+  "Tool 07: Split PDF": {
+    "status": "PASS",
+    "parts_count": 2
+  },
+  "Tool 08: Merge PDFs": {
+    "status": "PASS",
+    "pages": 6
+  },
+  "Tool 09: Page Crop / Margins": {
+    "status": "PASS",
+    "pages": 1
+  },
+  "Tool 10: Add Text": {
+    "status": "PASS",
+    "extracted": true
+  },
+  "Tool 11: Add Images": {
+    "status": "PASS",
+    "image_added": true
+  },
+  "Tool 12: Highlight": {
+    "status": "PASS",
+    "highlighted": true
+  },
+  "Tool 13: Draw": {
+    "status": "PASS",
+    "drawn": true
+  },
+  "Tool 14: Shapes": {
+    "status": "PASS",
+    "shaped": true
+  },
+  "Tool 15: Whiteout": {
+    "status": "PASS",
+    "whited_out": true
+  },
+  "Tool 16: Secure Redaction": {
+    "status": "PASS",
+    "text_sanitized": true
+  },
+  "Tool 17: Digital Signatures": {
+    "status": "PASS",
+    "signed": true
+  },
+  "Tool 18: Form Filling": {
+    "status": "PASS",
+    "fields_present": false
+  },
+  "Tool 19: Watermarks": {
+    "status": "PASS",
+    "stamped": true
+  },
+  "Tool 20: Page Numbers": {
+    "status": "PASS",
+    "numbered": true
+  },
+  "Tool 21: Headers and Footers": {
+    "status": "PASS",
+    "headers_added": true
+  },
+  "Tool 22: Date Stamps": {
+    "status": "PASS",
+    "date_stamped": true
+  },
+  "Tool 23: Images to PDF": {
+    "status": "PASS",
+    "pages": 2
+  },
+  "Tool 24: PDF to Images": {
+    "status": "PASS",
+    "images_generated": 5
+  },
+  "Tool 25: PDF to Text": {
+    "status": "PASS",
+    "chars_extracted": 433
+  },
+  "Tool 26: PDF Compression": {
+    "status": "PASS",
+    "orig_size": 17567,
+    "compressed_size": 17532,
+    "reduction": "0.2%"
+  },
+  "Tool 27: Edit PDF Metadata": {
+    "status": "PASS",
+    "title": "Adversarial Report Title"
+  },
+  "Tool 28: Remove PDF Metadata": {
+    "status": "PASS",
+    "purged": true
+  },
+  "Tool 29: Compare PDFs": {
+    "status": "PASS",
+    "compared": true
+  }
+}

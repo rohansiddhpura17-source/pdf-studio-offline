@@ -1,0 +1,58 @@
+{
+  "Embed 1: Catalog Attachments": {
+    "status": "PASS",
+    "description": "Embedded file attachment in /Root /Names /EmbeddedFiles",
+    "detail": "Remaining attachments in reader: 0, in object tree: 0.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed1_attachments.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed1_attachments_out.pdf"
+  },
+  "Embed 2: Document JavaScript": {
+    "status": "PASS",
+    "description": "Document JavaScript in /Names /JavaScript",
+    "detail": "Remaining scripts in object tree: 0.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed2_document_js.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed2_document_js_out.pdf"
+  },
+  "Embed 3: Page-level Additional Actions": {
+    "status": "PASS",
+    "description": "Page /AA open action trigger",
+    "detail": "Page /AA dictionary present: False. Tree AA count: 0.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed3_page_aa.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed3_page_aa_out.pdf"
+  },
+  "Embed 4: Form Field & Widget Actions": {
+    "status": "PASS",
+    "description": "Form field /AA /K keystroke JavaScript action",
+    "detail": "Remaining scripts in tree: 0. Annotations sanitized: True.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed4_field_actions.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed4_field_actions_out.pdf"
+  },
+  "Embed 5: Annotation Actions (/Launch)": {
+    "status": "PASS",
+    "description": "Link annotation with /S /Launch executable trigger",
+    "detail": "Actions found in object tree: []. Launch purged: True.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed5_annot_launch.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed5_annot_launch_out.pdf"
+  },
+  "Embed 6: Outline / Bookmark Actions": {
+    "status": "PASS",
+    "description": "Bookmark /Outlines item containing /S /JavaScript action",
+    "detail": "Remaining scripts in tree: 0. In v1.0.1, outlines are not recursively sanitized.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed6_outline_actions.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed6_outline_actions_out.pdf"
+  },
+  "Embed 7: OpenAction & Named Actions": {
+    "status": "PASS",
+    "description": "Root catalog /OpenAction with /Named action",
+    "detail": "/OpenAction present in root: False. Purged: True.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed7_openaction_named.pdf",
+    "output_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed7_openaction_named_out.pdf"
+  },
+  "Embed 8: Encrypted & Malformed PDFs": {
+    "status": "PASS",
+    "description": "Encrypted PDF and malformed byte stream handling",
+    "detail": "Malformed rejection: True (Correctly rejected malformed PDF with HTTP 422: {\"detail\":\"Unable to parse PDF structure: startxref not found\"}). Encrypted handling: HTTP Error on upload/processing: 422 - {\"detail\":\"Unable to parse PDF structure: File has not been decrypted\"}.",
+    "input_file": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed8_encrypted.pdf",
+    "output_file": "N/A"
+  }
+}

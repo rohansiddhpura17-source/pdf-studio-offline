@@ -1,0 +1,323 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (PDF Studio Offline Engine)
+/Title (Thermodynamics Lecture Notes)
+/Author (Professor R\056 Sharma)
+/Subject (Thermodynamics \046 Heat Engines)
+/Keywords (physics\054 thermodynamics\054 carnot\054 bserc)
+/Creator (PDF Studio)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 6 0 R 8 0 R 10 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Parent 2 0 R
+/Contents 5 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1368
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO TEST SUITE -- BSERC GENAI WEEK 2) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 1 of 5) Tj ET
+BT /Helvetica-Bold 22 Tf 0.09 0.14 0.23 rg 40 760 Td (Thermodynamics Lecture Notes) Tj ET
+BT /Helvetica 13 Tf 0.16 0.35 0.85 rg 40 735 Td (Chapter 04 / Heat Engines and Efficiency) Tj ET
+BT /Helvetica-Bold 12 Tf 0.09 0.14 0.23 rg 40 690 Td (4.1 CARNOT CYCLE) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 670 Td (The Carnot cycle is an ideal thermodynamic cycle that sets the maximum possible efficiency) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 655 Td (for a heat engine operating between two thermal reservoirs at temperatures Th and Tc.) Tj ET
+q 0.96 0.97 0.99 rg 40 590 300 45 re f Q
+BT /Helvetica-Bold 11 Tf 0.16 0.35 0.85 rg 55 608 Td (Thermal efficiency:  eta = 1 - (Tc / Th)) Tj ET
+q 0.98 0.95 0.95 rg 40 480 515 50 re f Q
+BT /Helvetica-Bold 9 Tf 0.8 0.1 0.1 rg 55 512 Td (RESTRICTED DATA (Test Redaction Target):) Tj ET
+BT /Helvetica 10 Tf 0.1 0.1 0.1 rg 55 494 Td (Author Identification: Professor R. Sharma | Internal Access Key: SEC-99482-CARNOT) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (PHYSICS STUDY NOTES -- CONFIDENTIAL INTERNAL USE) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (01) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Parent 2 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 2369
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO TEST SUITE -- BSERC GENAI WEEK 2) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 2 of 5) Tj ET
+BT /Helvetica-Bold 16 Tf 0.09 0.14 0.23 rg 40 750 Td (Section 2.0 -- Theoretical Analysis and Computations) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 725 Td (This is synthetic page 2 of the 5-page document for performance and verification testing.) Tj ET
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 680 Td (Data record [02-00]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 675 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 650 Td (Data record [02-01]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 645 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 620 Td (Data record [02-02]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 615 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 590 Td (Data record [02-03]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 585 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 560 Td (Data record [02-04]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 555 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 530 Td (Data record [02-05]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 525 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 500 Td (Data record [02-06]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 495 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 470 Td (Data record [02-07]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 465 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 440 Td (Data record [02-08]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 435 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 410 Td (Data record [02-09]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 405 515 1 re f Q
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (PHYSICS STUDY NOTES -- CONFIDENTIAL INTERNAL USE) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (02) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Parent 2 0 R
+/Contents 9 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 2369
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO TEST SUITE -- BSERC GENAI WEEK 2) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 3 of 5) Tj ET
+BT /Helvetica-Bold 16 Tf 0.09 0.14 0.23 rg 40 750 Td (Section 3.0 -- Theoretical Analysis and Computations) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 725 Td (This is synthetic page 3 of the 5-page document for performance and verification testing.) Tj ET
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 680 Td (Data record [03-00]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 675 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 650 Td (Data record [03-01]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 645 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 620 Td (Data record [03-02]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 615 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 590 Td (Data record [03-03]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 585 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 560 Td (Data record [03-04]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 555 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 530 Td (Data record [03-05]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 525 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 500 Td (Data record [03-06]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 495 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 470 Td (Data record [03-07]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 465 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 440 Td (Data record [03-08]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 435 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 410 Td (Data record [03-09]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 405 515 1 re f Q
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (PHYSICS STUDY NOTES -- CONFIDENTIAL INTERNAL USE) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (03) Tj ET
+endstream
+endobj
+10 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Parent 2 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 2369
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO TEST SUITE -- BSERC GENAI WEEK 2) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 4 of 5) Tj ET
+BT /Helvetica-Bold 16 Tf 0.09 0.14 0.23 rg 40 750 Td (Section 4.0 -- Theoretical Analysis and Computations) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 725 Td (This is synthetic page 4 of the 5-page document for performance and verification testing.) Tj ET
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 680 Td (Data record [04-00]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 675 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 650 Td (Data record [04-01]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 645 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 620 Td (Data record [04-02]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 615 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 590 Td (Data record [04-03]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 585 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 560 Td (Data record [04-04]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 555 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 530 Td (Data record [04-05]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 525 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 500 Td (Data record [04-06]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 495 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 470 Td (Data record [04-07]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 465 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 440 Td (Data record [04-08]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 435 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 410 Td (Data record [04-09]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 405 515 1 re f Q
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (PHYSICS STUDY NOTES -- CONFIDENTIAL INTERNAL USE) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (04) Tj ET
+endstream
+endobj
+12 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Parent 2 0 R
+/Contents 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 2369
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO TEST SUITE -- BSERC GENAI WEEK 2) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 5 of 5) Tj ET
+BT /Helvetica-Bold 16 Tf 0.09 0.14 0.23 rg 40 750 Td (Section 5.0 -- Theoretical Analysis and Computations) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 725 Td (This is synthetic page 5 of the 5-page document for performance and verification testing.) Tj ET
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 680 Td (Data record [05-00]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 675 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 650 Td (Data record [05-01]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 645 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 620 Td (Data record [05-02]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 615 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 590 Td (Data record [05-03]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 585 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 560 Td (Data record [05-04]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 555 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 530 Td (Data record [05-05]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 525 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 500 Td (Data record [05-06]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 495 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 470 Td (Data record [05-07]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 465 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 440 Td (Data record [05-08]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 435 515 1 re f Q
+BT /Helvetica 9 Tf 0.25 0.25 0.25 rg 40 410 Td (Data record [05-09]: System state entropy calculation with variable bounds.) Tj ET
+q 0.92 0.94 0.97 rg 40 405 515 1 re f Q
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (PHYSICS STUDY NOTES -- CONFIDENTIAL INTERNAL USE) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (05) Tj ET
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000271 00000 n 
+0000000356 00000 n 
+0000000405 00000 n 
+0000000669 00000 n 
+0000002089 00000 n 
+0000002353 00000 n 
+0000004774 00000 n 
+0000005038 00000 n 
+0000007459 00000 n 
+0000007725 00000 n 
+0000010147 00000 n 
+0000010413 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+12835
+%%EOF

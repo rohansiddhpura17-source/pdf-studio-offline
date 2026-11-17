@@ -1,0 +1,193 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 6 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 8 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_HF <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 584
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 1) Tj ET
+q
+BT
+/F_HF 9.0 Tf
+0.333 0.333 0.333 rg
+36.00 753.00 Td
+(Acme Legal Corp) Tj
+-36.00 -753.00 Td
+271.35 753.00 Td
+(test_stamp_doc) Tj
+-271.35 -753.00 Td
+516.60 753.00 Td
+(Confidential) Tj
+-516.60 -753.00 Td
+ET
+0.8 w
+0.863 0.890 0.937 RG
+36.00 749.00 m
+576.00 749.00 l
+S
+BT
+/F_HF 9.0 Tf
+0.333 0.333 0.333 rg
+36.00 30.00 Td
+(Version 1.0) Tj
+-36.00 -30.00 Td
+278.77 30.00 Td
+(Page 1 of 2) Tj
+-278.77 -30.00 Td
+526.50 30.00 Td
+(08/11/2026) Tj
+-526.50 -30.00 Td
+ET
+0.8 w
+0.863 0.890 0.937 RG
+36.00 43.00 m
+576.00 43.00 l
+S
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 1) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/F_HF <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Contents <<
+/Length 584
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+q
+BT
+/F_HF 9.0 Tf
+0.333 0.333 0.333 rg
+36.00 753.00 Td
+(Acme Legal Corp) Tj
+-36.00 -753.00 Td
+271.35 753.00 Td
+(test_stamp_doc) Tj
+-271.35 -753.00 Td
+516.60 753.00 Td
+(Confidential) Tj
+-516.60 -753.00 Td
+ET
+0.8 w
+0.863 0.890 0.937 RG
+36.00 749.00 m
+576.00 749.00 l
+S
+BT
+/F_HF 9.0 Tf
+0.333 0.333 0.333 rg
+36.00 30.00 Td
+(Version 1.0) Tj
+-36.00 -30.00 Td
+278.77 30.00 Td
+(Page 2 of 2) Tj
+-278.77 -30.00 Td
+526.50 30.00 Td
+(08/11/2026) Tj
+-526.50 -30.00 Td
+ET
+0.8 w
+0.863 0.890 0.937 RG
+36.00 43.00 m
+576.00 43.00 l
+S
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 66
+>>
+stream
+BT /Helvetica 14 Tf 50 700 Td (Standard body text on Page 2) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000184 00000 n 
+0000001047 00000 n 
+0000001163 00000 n 
+0000002026 00000 n 
+0000002142 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+2163
+%%EOF

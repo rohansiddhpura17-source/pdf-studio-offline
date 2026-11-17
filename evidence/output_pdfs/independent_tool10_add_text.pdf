@@ -1,0 +1,117 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 6 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+/Helvetica-Bold <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+/F_Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Contents <<
+/Length 1218
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 1 of 1) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (Single Page Benchmark Document) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 1. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 12 Tf 0.1 0.1 0.1 rg 40 690 Td (1. Executive Overview) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 670 Td (This is a single-page standard PDF document designed for baseline verification.) Tj ET
+q 0.95 0.96 0.98 rg 40 580 515 70 re f Q
+BT /Helvetica-Bold 10 Tf 0.16 0.35 0.85 rg 55 630 Td (Benchmark Sample Metric Card) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 55 605 Td (Total Page Count: 1 | Format: A4 (595 x 842 pt) | Engine: Localhost Vector) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-001 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (01) Tj ET
+q
+BT
+/F_Helvetica 14.0 Tf
+0.157 0.349 0.851 rg
+50.00 600.00 Td
+(INDEPENDENT_AUDIT_VERIFIED_TEXT_OVERLAY) Tj
+-50.00 -600.00 Td
+ET
+Q
+
+endstream
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1086
+>>
+stream
+q 0.86 0.89 0.94 rg 40 810 515 2 re f Q
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 40 818 Td (PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS) Tj ET
+BT /Helvetica 8 Tf 0.4 0.45 0.55 rg 480 818 Td (Page 1 of 1) Tj ET
+BT /Helvetica-Bold 18 Tf 0.09 0.14 0.23 rg 40 760 Td (Single Page Benchmark Document) Tj ET
+BT /Helvetica 10 Tf 0.3 0.3 0.3 rg 40 735 Td (Standard benchmark document page 1. Fully compliant vector streams.) Tj ET
+BT /Helvetica-Bold 12 Tf 0.1 0.1 0.1 rg 40 690 Td (1. Executive Overview) Tj ET
+BT /Helvetica 10 Tf 0.2 0.2 0.2 rg 40 670 Td (This is a single-page standard PDF document designed for baseline verification.) Tj ET
+q 0.95 0.96 0.98 rg 40 580 515 70 re f Q
+BT /Helvetica-Bold 10 Tf 0.16 0.35 0.85 rg 55 630 Td (Benchmark Sample Metric Card) Tj ET
+BT /Helvetica 9 Tf 0.3 0.3 0.3 rg 55 605 Td (Total Page Count: 1 | Format: A4 (595 x 842 pt) | Engine: Localhost Vector) Tj ET
+q 0.86 0.89 0.94 rg 40 40 515 1 re f Q
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 40 28 Td (DOCUMENT ID: CORPUS-001 | FOR QA AUDIT PURPOSES ONLY) Tj ET
+BT /Helvetica 8 Tf 0.5 0.55 0.65 rg 520 28 Td (01) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+>>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000178 00000 n 
+0000001759 00000 n 
+0000002897 00000 n 
+trailer
+<<
+/Size 7
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+2918
+%%EOF

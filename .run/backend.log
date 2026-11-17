@@ -1,0 +1,2 @@
+/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/backend/venv/lib/python3.13/site-packages/fitz/__init__.py:17: FutureWarning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+  warnings.warn(

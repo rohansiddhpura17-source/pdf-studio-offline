@@ -1,0 +1,228 @@
+{
+  "immutability": {
+    "stress_case1_multi_use.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case1_multi_use.pdf",
+      "sha256": "445517f8bdb1fea994b59c94df21aac2f6c756ca86251dd00fd8d7d2176d4744",
+      "size_bytes": 3818,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_case2_rotated_matrix.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case2_rotated_matrix.pdf",
+      "sha256": "ebe74bba41185bba59e6e590878fd97cc5086405fa2f22a2444b97dd1a33f9f6",
+      "size_bytes": 3774,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_case3_nested_form.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case3_nested_form.pdf",
+      "sha256": "0da9023ed4119d3d29ff687c3d0148d3feef1fba430993718e4808f338c38e1e",
+      "size_bytes": 3971,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_case4_smask.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case4_smask.pdf",
+      "sha256": "a8c90ff7ce61ad4c9e7b7cabe4c5285b93b57f637d5b72e771c228342f3550c6",
+      "size_bytes": 4278,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_case5_flate.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case5_flate.pdf",
+      "sha256": "8d8002ba3b1323c7764ca325f0502844a795d5ab6ff16ab1f9b0514d0ae42b59",
+      "size_bytes": 1908,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_case6_partial_coords.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case6_partial_coords.pdf",
+      "sha256": "03dffce4df6eb4623779c7f2c11b8cb3a90b6b743596bc03059cb42b07af7f20",
+      "size_bytes": 3775,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_case7_multi_intersect.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_case7_multi_intersect.pdf",
+      "sha256": "36ee2c05bd13f077ff4bb15b65a855066a75885ed7f3324eb91cf02d93c8a5f2",
+      "size_bytes": 3777,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed1_attachments.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed1_attachments.pdf",
+      "sha256": "f74ca26a786b270c7c740d174d15599a7d1448c7e0ef3ae2bde914ed161fd4f2",
+      "size_bytes": 832,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed2_document_js.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed2_document_js.pdf",
+      "sha256": "8d87411fcbb5c55d6c0ab2e68bcd9f67561665849beee35e7c3e5321f1fe4218",
+      "size_bytes": 649,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed3_page_aa.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed3_page_aa.pdf",
+      "sha256": "f7d0008ea0aaafc6362bc67bb914e2613660f3564eac651005348bcd6c2ef855",
+      "size_bytes": 562,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed4_field_actions.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed4_field_actions.pdf",
+      "sha256": "30e0a73d338a12886cfe681267cd8b6acf77d01c1a6ff616883dfd3e1910e2cc",
+      "size_bytes": 686,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed5_annot_launch.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed5_annot_launch.pdf",
+      "sha256": "b4a99ae22f7b366c0f77dd89b4bebd977f388b5144d93de4cc2c91ced2aa50fc",
+      "size_bytes": 624,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed6_outline_actions.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed6_outline_actions.pdf",
+      "sha256": "7e4871f4dc6b247764705d4e91b2e0e5f663105c7fd0400c768bdd995ec3f46f",
+      "size_bytes": 728,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed7_openaction_named.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed7_openaction_named.pdf",
+      "sha256": "d087ae6b95bd2973104fa2d2d106b784f256166346a000b0b9ccc28f7470a3d1",
+      "size_bytes": 510,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed8_encrypted.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed8_encrypted.pdf",
+      "sha256": "87dd6c64cc2f2a2da1aa292bdb755882c3072902384ebd19c61d0b4564b1c7b3",
+      "size_bytes": 828,
+      "status": "PASS (UNTOUCHED)"
+    },
+    "stress_embed8_malformed.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/corpus/stress_embed8_malformed.pdf",
+      "sha256": "8fb48dccb8cebc9c28698feb39469033fe0e9164b82f9f2d59808365d7ebb2e6",
+      "size_bytes": 67,
+      "status": "PASS (UNTOUCHED)"
+    }
+  },
+  "output_validation": {
+    "stress_case1_multi_use_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case1_multi_use_out.pdf",
+      "size_bytes": 5625,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_case2_rotated_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case2_rotated_out.pdf",
+      "size_bytes": 3885,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_case3_nested_form_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case3_nested_form_out.pdf",
+      "size_bytes": 2553,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_case4_smask_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case4_smask_out.pdf",
+      "size_bytes": 2545,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_case5_flate_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case5_flate_out.pdf",
+      "size_bytes": 2359,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_case6_partial_coords_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case6_partial_coords_out.pdf",
+      "size_bytes": 3888,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_case7_multi_intersect_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_case7_multi_intersect_out.pdf",
+      "size_bytes": 3912,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_embed1_attachments_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed1_attachments_out.pdf",
+      "size_bytes": 431,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_embed2_document_js_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed2_document_js_out.pdf",
+      "size_bytes": 431,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_embed3_page_aa_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed3_page_aa_out.pdf",
+      "size_bytes": 431,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_embed4_field_actions_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed4_field_actions_out.pdf",
+      "size_bytes": 558,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_embed5_annot_launch_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed5_annot_launch_out.pdf",
+      "size_bytes": 544,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_embed6_outline_actions_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed6_outline_actions_out.pdf",
+      "size_bytes": 431,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    },
+    "stress_embed7_openaction_named_out.pdf": {
+      "path": "/Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/stress_test/outputs/stress_embed7_openaction_named_out.pdf",
+      "size_bytes": 431,
+      "page_count": 1,
+      "pdfinfo_code": 0,
+      "stderr": "",
+      "pypdf_ok": true,
+      "status": "PASS"
+    }
+  }
+}

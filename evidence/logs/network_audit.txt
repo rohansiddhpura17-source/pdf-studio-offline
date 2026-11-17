@@ -1,0 +1,47 @@
+================================================================================
+  PDF STUDIO v1.0.0 — NETWORK ISOLATION & AIR-GAP COMPLIANCE AUDIT
+================================================================================
+
+[CHECK 1: Local Loopback Binding]
+Port 8001 Socket Status:
+COMMAND     PID           USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+python3.1 10709 rohansiddhpura   11u  IPv4 0x4a42eeb1ed061bd0      0t0  TCP 127.0.0.1:8001 (LISTEN)
+  [PASS] Port 8001 is strictly bound to 127.0.0.1 / localhost.
+Port 5173 Socket Status:
+COMMAND   PID           USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+node    11001 rohansiddhpura   16u  IPv4 0xa451002d6d3121aa      0t0  TCP 127.0.0.1:5173 (LISTEN)
+  [PASS] Port 5173 is strictly bound to 127.0.0.1 / localhost.
+
+[CHECK 2: Host Header Security & Localhost Enforcement]
+Localhost Host Request: Status 200 (offline-localhost-only)
+External Host Request ('malicious-phishing-domain.com'): Status 403
+  [PASS] Non-localhost Host header rejected with 403 Forbidden.
+
+[CHECK 3: Zero Telemetry & CDN Elimination in Frontend Assets]
+  [PASS] Zero telemetry/analytics SDKs detected in frontend sources or built bundles.
+  [INFO] Total scanned files: 62
+  [NOTE] External URL references (documentation/schemas): 2
+       - index-CVuH0-jE.js: https://react.dev/errors/
+       - index-CVuH0-jE.js: https://react.dev/errors/
+
+[CHECK 4: Local PDF.js Engine & Worker Verification]
+PDF.js worker artifacts in production dist/: ['pdf.worker.min-yatZIOMy.mjs']
+  [PASS] PDF.js engine and worker are served 100% locally from static assets.
+
+[CHECK 5: Dependency Offline Verification]
+Backend requirements.txt contents:
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+pypdf>=5.1.0
+pymupdf
+pillow>=10.4.0
+pytest>=8.3.0
+httpx>=0.27.0
+pydantic>=2.9.0
+
+Frontend package.json dependencies inspected: 0 remote trackers, 100% local libraries.
+
+================================================================================
+  NETWORK ISOLATION AUDIT VERDICT: 100% AIR-GAPPED & OFFLINE-COMPLIANT
+================================================================================

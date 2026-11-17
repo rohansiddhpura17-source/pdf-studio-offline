@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF Comparison Report — synthetic_1p.pdf vs synthetic_5p.pdf</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 30px; background: #f8fafc; color: #1e293b; }
+        h1 { font-size: 22px; color: #0f172a; margin-bottom: 4px; }
+        .header { background: #fff; padding: 24px; border-radius: 12px; border: 1px solid #e2e8f0; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+        .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 16px; }
+        .stat-card { background: #f1f5f9; padding: 12px 16px; border-radius: 8px; }
+        .stat-label { font-size: 11px; text-transform: uppercase; color: #64748b; font-weight: 700; }
+        .stat-val { font-size: 18px; font-weight: 700; color: #1e293b; margin-top: 4px; }
+        table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 12px; overflow: hidden; border: 1px solid #e2e8f0; margin-top: 20px; }
+        th, td { padding: 12px 16px; text-align: left; border-bottom: 1px solid #e2e8f0; font-size: 13px; }
+        th { background: #f8fafc; font-weight: 600; color: #475467; }
+        pre { margin: 0; font-family: monospace; white-space: pre-wrap; font-size: 12px; }
+        .badge { padding: 2px 8px; border-radius: 4px; font-size: 10px; font-weight: 700; text-transform: uppercase; }
+        .badge.added { background: #dcfce7; color: #15803d; }
+        .badge.removed { background: #fee2e2; color: #b91c1c; }
+        .badge.modified { background: #fef3c7; color: #b45309; }
+        .badge.unchanged { background: #f1f5f9; color: #475569; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>PDF Studio — Document Comparison Audit</h1>
+        <p style="font-size: 13px; color: #64748b; margin-top: 2px;">Offline Verification Report</p>
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-label">Original Document</div>
+                <div class="stat-val">synthetic_1p.pdf (1p)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Revised Document</div>
+                <div class="stat-val">synthetic_5p.pdf (5p)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Text Modifications</div>
+                <div class="stat-val">8 differences</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Visual Changes</div>
+                <div class="stat-val">5 pages</div>
+            </div>
+        </div>
+    </div>
+
+    <h2>Textual Differences Log</h2>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 100px;">Location</th>
+                <th style="width: 110px;">Change Type</th>
+                <th>Content Difference</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr class="added">
+                <td>Page 1</td>
+                <td><span class="badge added">ADDED</span></td>
+                <td><pre>5 Five-Page Report Document -- Page</pre></td>
+            </tr>
+            
+            <tr class="removed">
+                <td>Page 1</td>
+                <td><span class="badge removed">REMOVED</span></td>
+                <td><pre>Single Page Benchmark Document</pre></td>
+            </tr>
+            
+            <tr class="modified">
+                <td>Page 1</td>
+                <td><span class="badge modified">MODIFIED</span></td>
+                <td><pre>- 1. Executive Overview This is a single-page standard PDF document designed for baseline verification. Benchmark Sample Metric Card Total Page Count: 1 | Format: A4 (595 x 842 pt) | Engine: Localhost 
++ Chapter 1: Detailed Findings & Metrics Section 1.1 describes the operation of multi-page workflow systems. Data record #10: Entropy level = 0.19,</pre></td>
+            </tr>
+            
+            <tr class="added">
+                <td>Page 1</td>
+                <td><span class="badge added">ADDED</span></td>
+                <td><pre>throughput = 250 ops/sec.</pre></td>
+            </tr>
+            
+            <tr class="added">
+                <td>Page 2</td>
+                <td><span class="badge added">ADDED</span></td>
+                <td><pre>PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS Page 2 of 5
+Five-Page Report Document -- Page 2
+Standard benchmark document page 2. Fully compliant vector streams.
+Chapter 2: Detailed Findings & Metrics
+Section 2.1 describes the operation of multi-page workflow systems.
+Data record #20: Entropy level = 0.38, Vector throughput = 500 ops/sec.
+DOCUMENT ID: CORPUS-002 | FOR QA AUDIT PURPOSES ONLY 02</pre></td>
+            </tr>
+            
+            <tr class="added">
+                <td>Page 3</td>
+                <td><span class="badge added">ADDED</span></td>
+                <td><pre>PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS Page 3 of 5
+Five-Page Report Document -- Page 3
+Standard benchmark document page 3. Fully compliant vector streams.
+Chapter 3: Detailed Findings & Metrics
+Section 3.1 describes the operation of multi-page workflow systems.
+Data record #30: Entropy level = 0.57, Vector throughput = 750 ops/sec.
+DOCUMENT ID: CORPUS-003 | FOR QA AUDIT PURPOSES ONLY 03</pre></td>
+            </tr>
+            
+            <tr class="added">
+                <td>Page 4</td>
+                <td><span class="badge added">ADDED</span></td>
+                <td><pre>PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS Page 4 of 5
+Five-Page Report Document -- Page 4
+Standard benchmark document page 4. Fully compliant vector streams.
+Chapter 4: Detailed Findings & Metrics
+Section 4.1 describes the operation of multi-page workflow systems.
+Data record #40: Entropy level = 0.76, Vector throughput = 1000 ops/sec.
+DOCUMENT ID: CORPUS-004 | FOR QA AUDIT PURPOSES ONLY 04</pre></td>
+            </tr>
+            
+            <tr class="added">
+                <td>Page 5</td>
+                <td><span class="badge added">ADDED</span></td>
+                <td><pre>PDF STUDIO QA AUDIT -- SYNTHETIC CORPUS Page 5 of 5
+Five-Page Report Document -- Page 5
+Standard benchmark document page 5. Fully compliant vector streams.
+Chapter 5: Detailed Findings & Metrics
+Section 5.1 describes the operation of multi-page workflow systems.
+Data record #50: Entropy level = 0.95, Vector throughput = 1250 ops/sec.
+DOCUMENT ID: CORPUS-005 | FOR QA AUDIT PURPOSES ONLY 05</pre></td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>

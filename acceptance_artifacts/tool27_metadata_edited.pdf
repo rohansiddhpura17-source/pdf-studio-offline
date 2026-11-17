@@ -1,0 +1,69 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 595 842 ]
+/Parent 2 0 R
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 103
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Metadata Test) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 1 marker) Tj ET
+endstream
+endobj
+5 0 obj
+<<
+/Producer (pypdf)
+/Title (BSERC Quantum Report 2026)
+/Author (Dr\056 Vikram Sarabhai)
+/Subject (Aerospace Propulsion)
+/Creator (PDF Studio QA Engine)
+/Keywords (aerospace\054 propulsion\054 bserc)
+/Department (Flight Dynamics)
+>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000123 00000 n 
+0000000311 00000 n 
+0000000465 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+713
+%%EOF

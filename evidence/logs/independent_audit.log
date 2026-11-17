@@ -1,0 +1,100 @@
+================================================================================
+  PDF STUDIO v1.0.0 — INDEPENDENT QA & SECURITY AUDIT HARNESS
+================================================================================
+
+[*] Checking API health...
+    Status: healthy, Mode: offline-localhost, App: PDF Studio
+
+[*] Recording initial input corpus hashes (immutability baseline)...
+    synthetic_1p.pdf            : 70d9d2e9b31d4e24a0b222eddedada2b6d053068fe8746ce969a59ccebcdfef9
+    synthetic_20p.pdf           : f49c90a333f64a04fa06f3c545acc496eb59361e37e228173bc8d1fdf01110b2
+    synthetic_50p.pdf           : 89cbbf745b0c5455b50a7fdd328cd2c754906fefd75de6d564b7825f1381e3bf
+    synthetic_5p.pdf            : 6c06bb7af95d52d08475dbb25dcc849eef485426196a53f744aeaa0c4bc5c00f
+    synthetic_corrupted.pdf     : d692164861a902593a806c427a472281548573c6c0239d8f54deaaef5f5deb23
+    synthetic_encrypted.pdf     : 065d1253dd565859c2e76b3cf3dc84a1884569f0e5b1cc29ee2d404d45f3e369
+    synthetic_form.pdf          : c1a984c67e74e32e9064a4477667e5bbe30647ec236868fe915ddb19c2b91657
+    synthetic_images.pdf        : 12b70ffeca150b517510d6f14eb05bea432dd3354faec7218a5254912f3b0027
+    synthetic_invalid_mime.pdf  : 865b5fcb92d5df3813c89d07557553c81a26a9c3496227ad9325a4e673306738
+    synthetic_landscape.pdf     : 5508199ceac4c645635972b60f96c44d84a0be56468ea4044b69d1a02798fd6c
+    synthetic_redaction.pdf     : 34094b6e56e389bc088ca2ab5bd0679c66cea850e8a51351ea619039cbfd04ae
+    synthetic_zero_byte.pdf     : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+================================================================================
+  MODULE A: ORGANISE (TOOLS 01 - 09)
+================================================================================
+  [[92mPASS[0m] Tool 01 (Organise): Merge PDFs -> Merged 1p + 5p = 6 pages (8,396 bytes)
+  [[92mPASS[0m] Tool 02 (Organise): Split PDF -> Split 5-page PDF into 2 documents (2p and 3p)
+  [[92mPASS[0m] Tool 03 (Organise): Reorder Pages -> Inverted page order [5,4,3,2,1], first page verified Page 5
+  [[92mPASS[0m] Tool 04 (Organise): Rotate Pages -> Page rotated 90° CW, reader confirms rotation=90
+  [[92mPASS[0m] Tool 05 (Organise): Delete Pages -> Deleted pages 2 and 4, verified remaining page count = 3
+  [[92mPASS[0m] Tool 06 (Organise): Duplicate Pages -> Duplicated page 1 twice, verified page count = 3
+  [[92mPASS[0m] Tool 07 (Organise): Extract Pages -> Extracted pages 2 and 4 into independent document
+  [[92mPASS[0m] Tool 08 (Organise): Insert Blank Pages -> Inserted blank A4 portrait page, verified page count = 2
+  [[92mPASS[0m] Tool 09 (Organise): Crop Pages -> Applied 25pt horiz, 35pt vert crop -> 545x772 pt
+
+================================================================================
+  MODULE B: EDIT (TOOLS 10 - 18)
+================================================================================
+  [[92mPASS[0m] Tool 10 (Edit): Add Text -> Vector text overlay added and verified via stream text extraction
+  [[92mPASS[0m] Tool 11 (Edit): Add Images -> Raster image inserted into page resources (1 image XObjects)
+  [[92mPASS[0m] Tool 12 (Edit): Highlight Text -> Translucent highlight rectangle composited to stream
+  [[92mPASS[0m] Tool 13 (Edit): Freehand Draw -> Vector path bezier strokes added to content stream
+  [[92mPASS[0m] Tool 14 (Edit): Geometric Shapes -> Geometric rounded rectangle rendered with stroke and fill
+  [[92mPASS[0m] Tool 15 (Edit): Whiteout -> Cosmetic whiteout mask block composited to page
+  [[92mPASS[0m] Tool 16 (Edit): Secure Redaction -> 0 extracted instances, 0 physical bytecode occurrences. Content stream sanitized.
+  [[92mPASS[0m] Tool 17 (Edit): Digital Signatures -> Visual signature stamp and signer metadata placed in stream
+  [[92mPASS[0m] Tool 18 (Edit): PDF Form Filling -> AcroForm field values populated and committed to catalog
+
+================================================================================
+  MODULE C: STAMP (TOOLS 19 - 22)
+================================================================================
+  [[92mPASS[0m] Tool 19 (Stamp): Watermarks -> Diagonal text watermark stamped across pages at 45° with 30% opacity
+  [[92mPASS[0m] Tool 20 (Stamp): Page Numbers -> Pinned page numbers 'Page I of 5' applied and verified
+  [[92mPASS[0m] Tool 21 (Stamp): Headers and Footers -> 3-column running header & footer stamped with divider line
+  [[92mPASS[0m] Tool 22 (Stamp): Date Stamps -> Date stamp 'AUDITED ON 08/11/2026' pinned to bottom-right
+
+================================================================================
+  MODULE D: CONVERT (TOOLS 23 - 25)
+================================================================================
+  [[92mPASS[0m] Tool 23 (Convert): Images to PDF -> Compiled 2 raster images into compliant 2-page A4 PDF
+  [[92mPASS[0m] Tool 24 (Convert): PDF to Images -> Rasterized 5 pages at 150 DPI into ZIP archive containing 5 PNGs
+  [[92mPASS[0m] Tool 25 (Convert): PDF to Text -> Extracted 1952 characters across 5 pages with layout preservation
+
+================================================================================
+  MODULE E: FINISH & COMPARE (TOOLS 26 - 29)
+================================================================================
+  [[92mPASS[0m] Tool 26 (Finish): PDF Compression -> Orig: 17,567B -> Comp: 17,532B (0.2% saved)
+  [[92mPASS[0m] Tool 27 (Finish): Edit PDF Metadata -> Updated Title: 'AUDITED_NEW_TITLE', Author: 'Chief Auditor', Keywords: 'audit, production, pass'
+  [[92mPASS[0m] Tool 28 (Finish): Remove PDF Metadata -> Deep sanitation purged all identifying fields (is_sanitized=True)
+  [[92mPASS[0m] Tool 29 (Finish): Compare PDFs -> Compared 1p vs 5p documents, detected differences, generated HTML audit report (6,641 bytes)
+
+================================================================================
+  CRITICAL SECURITY & BOUNDARY ATTACK AUDIT
+================================================================================
+  [[92mPASS[0m] Security: Path Traversal blocked (404)
+  [[92mPASS[0m] Security: 0-Byte File Rejected (400)
+  [[92mPASS[0m] Security: Non-PDF MIME Rejected (400)
+  [[92mPASS[0m] Security: Corrupted PDF Safely Handled (422)
+  [[92mPASS[0m] Security: External Host Header Rejected (403)
+
+================================================================================
+  ORIGINAL INPUT FILE IMMUTABILITY CHECK
+================================================================================
+  [[92mOK[0m] synthetic_1p.pdf            : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_20p.pdf           : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_50p.pdf           : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_5p.pdf            : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_corrupted.pdf     : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_encrypted.pdf     : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_form.pdf          : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_images.pdf        : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_invalid_mime.pdf  : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_landscape.pdf     : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_redaction.pdf     : Unmodified (Bit-for-bit identical)
+  [[92mOK[0m] synthetic_zero_byte.pdf     : Unmodified (Bit-for-bit identical)
+
+================================================================================
+  AUDIT SUMMARY: 29/29 Tools PASS | 5/5 Security Checks PASS
+  Artifacts saved to: /Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/output_pdfs
+  Structured log:     /Volumes/PortableSSD/BSERC-WEEK-2/01-PDF-Studio/evidence/logs/audit_results.json
+================================================================================

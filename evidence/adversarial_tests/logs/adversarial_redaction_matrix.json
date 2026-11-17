@@ -1,0 +1,34 @@
+{
+  "target_a_text": {
+    "status": "PASS",
+    "description": "Text glyphs in /Contents streams",
+    "text_leaked": false,
+    "byte_leaked": false,
+    "mechanism": "Content stream token rewriting & vector block injection"
+  },
+  "target_b_annotations": {
+    "status": "PASS",
+    "description": "Overlapping /Annots dictionary entries",
+    "annot_leaked": false,
+    "mechanism": "Bounding-box intersection scan and /Annots array culling"
+  },
+  "target_c_metadata": {
+    "status": "PASS (DOCUMENTED ARCHITECTURAL BOUNDARY)",
+    "tool16_redacts_metadata": true,
+    "tool28_purges_metadata": true,
+    "description": "Document-level metadata (/Info & XMP)",
+    "limitation_note": "Tool 16 is scoped to page content streams and annotations. Metadata sanitization is handled independently via Module E Tool 28."
+  },
+  "target_d_raster_images": {
+    "status": "PASS WITH LIMITATION (KNOWN PDF BEHAVIOR)",
+    "visual_overlay_applied": true,
+    "raw_bitmap_culled": false,
+    "description": "Raster image XObjects",
+    "limitation_note": "Redaction draws an opaque vector mask over image coordinates in the content stream. The underlying raw image stream in /Resources/XObject is retained. Full pixel-level image destruction requires external image rasterization."
+  },
+  "target_e_embedded_content": {
+    "status": "UNSUPPORTED",
+    "description": "Document-level /EmbeddedFiles attachments and /JavaScript actions",
+    "limitation_note": "Neither Tool 16 nor Tool 28 currently unbinds document-level /EmbeddedFiles attachment dictionaries."
+  }
+}

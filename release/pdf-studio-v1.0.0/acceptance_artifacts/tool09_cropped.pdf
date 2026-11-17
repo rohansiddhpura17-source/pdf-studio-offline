@@ -1,0 +1,64 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/Helvetica <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 25 35 570 807 ]
+/Contents 5 0 R
+/CropBox [ 25 35 570 807 ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 102
+>>
+stream
+BT /Helvetica 14 Tf 50 750 Td (Page to Crop) Tj ET
+BT /Helvetica 10 Tf 50 700 Td (Page 1 marker) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000375 00000 n 
+trailer
+<<
+/Size 6
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+528
+%%EOF
